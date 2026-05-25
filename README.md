@@ -1,0 +1,2 @@
+# starrydiscordbot
+starboard for discord
