@@ -1,2 +1,3 @@
 # starrydiscordbot
-starboard for discord
+educational purposes
+counting and not counting gang violence
